@@ -1,0 +1,236 @@
+{
+    "id": 794,
+    "area": {
+        "id": 2186,
+        "name": "Poland"
+    },
+    "name": "Poland",
+    "shortName": "Poland",
+    "tla": "POL",
+    "address": "Bitwy Warszawskiej 1920 r., 7 Warszawa 02366",
+    "phone": "+48 (22) 5512300",
+    "website": "http://www.pzpn.pl",
+    "email": "pzpn@pzpn.pl",
+    "founded": 1919,
+    "clubColors": "White / Red",
+    "venue": "Stadion Śląski",
+    "squad": [
+        {
+            "id": 136,
+            "name": "Łukasz Piszczek",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 371,
+            "name": "Robert Lewandowski",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2022,
+            "name": "Wojciech Szczęsny",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2097,
+            "name": "Piotr Zieliński",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2105,
+            "name": "Arkadiusz Milik",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2249,
+            "name": "Bartosz Bereszyński",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2258,
+            "name": "Karol Linetty",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2263,
+            "name": "Dawid Kownacki",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2356,
+            "name": "Thiago Cionek",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3526,
+            "name": "Łukasz Fabiański",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3527,
+            "name": "Bartosz Białkowski",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3528,
+            "name": "Artur Jędrzejczyk",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3529,
+            "name": "Kamil Glik",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3530,
+            "name": "Michał Pazdan",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3533,
+            "name": "Sławomir Peszko",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3534,
+            "name": "Grzegorz Krychowiak",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3536,
+            "name": "Maciej Rybus",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3537,
+            "name": "Jakub Błaszczykowski",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3538,
+            "name": "Jacek Góralski",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3542,
+            "name": "Kamil Grosicki",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3543,
+            "name": "Łukasz Teodorczyk",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3545,
+            "name": "Rafał Kurzawa",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8086,
+            "name": "Jan Bednarek",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10204,
+            "name": "Adam Nawałka",
+            "position": null,
+            "dateOfBirth": "1956-12-30T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:39Z"
+}

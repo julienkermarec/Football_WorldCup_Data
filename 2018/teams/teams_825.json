@@ -1,0 +1,227 @@
+{
+    "id": 825,
+    "area": {
+        "id": 2070,
+        "name": "Egypt"
+    },
+    "name": "Egypt",
+    "shortName": "Egypt",
+    "tla": "EGY",
+    "address": "5, Gabalaya Street, El Gezira Cairo null",
+    "phone": "+202 (27) 351793",
+    "website": "http://www.efa.com.eg",
+    "email": "efa_football@hotmail.com",
+    "founded": 1921,
+    "clubColors": "Red / White / Black",
+    "venue": "Stadio Atleti Azzurri d'Italia",
+    "squad": [
+        {
+            "id": 3743,
+            "name": "Mohamed El Shenawy",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3744,
+            "name": "Essam El Hadary",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1972-12-31T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3746,
+            "name": "Ahmed Fathy",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3747,
+            "name": "Ahmed Hegazy",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3748,
+            "name": "Ali Gabr",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3749,
+            "name": "Mohamed Abdel Shafi",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3750,
+            "name": "Saad Samir",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3751,
+            "name": "Ayman Ashraf",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3753,
+            "name": "Ahmed El Mohamady",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3754,
+            "name": "Mohamed Salah",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3755,
+            "name": "Mohamed El Neny",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3756,
+            "name": "Kahraba",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3758,
+            "name": "Abdulla El Said",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3761,
+            "name": "Ramadan Sobhi",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3762,
+            "name": "Omar Gaber",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3763,
+            "name": "Tarek Hamed",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3764,
+            "name": "Amr Warda",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3765,
+            "name": "Sam Morsy",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3766,
+            "name": "Shikabala",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3769,
+            "name": "Marwan Mohsen",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10171,
+            "name": "Sherif Ekramy",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10176,
+            "name": "Hany Ramzy",
+            "position": null,
+            "dateOfBirth": "1968-12-29T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "role": "LOCAL_COACH"
+        },
+        {
+            "id": 10177,
+            "name": "Héctor Cúper",
+            "position": null,
+            "dateOfBirth": "1955-01-03T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:46Z"
+}

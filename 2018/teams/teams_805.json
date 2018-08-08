@@ -1,0 +1,254 @@
+{
+    "id": 805,
+    "area": {
+        "id": 2023,
+        "name": "Belgium"
+    },
+    "name": "Belgium",
+    "shortName": "Belgium",
+    "tla": "BEL",
+    "address": "145, avenue Houba de Strooper Brussels 1020",
+    "phone": "+32 (2) 4771211",
+    "website": "http://www.belgianfootball.be",
+    "email": "urbsfa.kbvb@footbel.com",
+    "founded": 1895,
+    "clubColors": "Red / Black / Yellow",
+    "venue": null,
+    "squad": [
+        {
+            "id": 2103,
+            "name": "Dries Mertens",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3640,
+            "name": "Simon Mignolet",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3641,
+            "name": "Thibaut Courtois",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3642,
+            "name": "Koen Casteels",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3644,
+            "name": "Vincent Kompany",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3645,
+            "name": "Thomas Vermaelen",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3646,
+            "name": "Jan Vertonghen",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3647,
+            "name": "Dedryck Boyata",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3648,
+            "name": "Toby Alderweireld",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3650,
+            "name": "Thomas Meunier",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3651,
+            "name": "Moussa Dembélé",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3652,
+            "name": "Marouane Fellaini",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3653,
+            "name": "Eden Hazard",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3654,
+            "name": "Kevin De Bruyne",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3655,
+            "name": "Thorgan Hazard",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3656,
+            "name": "Axel Witsel",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3657,
+            "name": "Yannick Ferreira-Carrasco",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3658,
+            "name": "Youri Tielemans",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3659,
+            "name": "Leander Dendoncker",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3662,
+            "name": "Romelu Lukaku",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3664,
+            "name": "Michy Batshuayi",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8024,
+            "name": "Nacer Chadli",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10210,
+            "name": "Adnan Januzaj",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10211,
+            "name": "Roberto Martínez",
+            "position": null,
+            "dateOfBirth": "1972-12-31T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "COACH"
+        },
+        {
+            "id": 10212,
+            "name": "Graeme Jones",
+            "position": null,
+            "dateOfBirth": "1969-12-28T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "ASSISTANT_COACH"
+        },
+        {
+            "id": 45075,
+            "name": "Thierry Henry",
+            "position": null,
+            "dateOfBirth": "1976-12-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "ASSISTANT_COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:53Z"
+}

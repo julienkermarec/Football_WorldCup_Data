@@ -1,0 +1,236 @@
+{
+    "id": 779,
+    "area": {
+        "id": 2015,
+        "name": "Australia"
+    },
+    "name": "Australia",
+    "shortName": "Australia",
+    "tla": "AUS",
+    "address": "Locked Bag A 4071 Sydney, NSW NSW 1235",
+    "phone": "+61 (2) 80204000",
+    "website": "http://www.footballaustralia.com.au",
+    "email": "info@footballaustralia.com.au",
+    "founded": 1961,
+    "clubColors": "Gold / Green",
+    "venue": "NV Arena",
+    "squad": [
+        {
+            "id": 3402,
+            "name": "Brad Jones",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1981-12-27T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3403,
+            "name": "Maty Ryan",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3404,
+            "name": "Danny Vuković",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3406,
+            "name": "Trent Sainsbury",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3407,
+            "name": "Aziz Behich",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3408,
+            "name": "James Meredith",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3409,
+            "name": "Josh Risdon",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3410,
+            "name": "Miloš Degenek",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3411,
+            "name": "Matt Jurman",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3414,
+            "name": "Mile Jedinak",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3415,
+            "name": "Aaron Mooy",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3416,
+            "name": "Massimo Luongo",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3417,
+            "name": "Mark Milligan",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3419,
+            "name": "Tom Rogić",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3420,
+            "name": "Mathew Leckie",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3421,
+            "name": "Jackson Irvine",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3422,
+            "name": "Tim Cahill",
+            "position": "Attacker",
+            "dateOfBirth": "1978-12-31T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3424,
+            "name": "Robbie Kruse",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3425,
+            "name": "Tomi Jurić",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3426,
+            "name": "Dimitri Petratos",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3427,
+            "name": "Andrew Nabbout",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 4620,
+            "name": "Daniel Arzani",
+            "position": "Attacker",
+            "dateOfBirth": "1998-12-27T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 34764,
+            "name": "Jamie MacLaren",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Australia",
+            "nationality": "Australia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43774,
+            "name": "Bert van Marwijk",
+            "position": null,
+            "dateOfBirth": "1951-12-30T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:36Z"
+}

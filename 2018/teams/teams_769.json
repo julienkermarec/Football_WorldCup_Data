@@ -1,0 +1,227 @@
+{
+    "id": 769,
+    "area": {
+        "id": 2149,
+        "name": "Mexico"
+    },
+    "name": "Mexico",
+    "shortName": "Mexico",
+    "tla": "MEX",
+    "address": "Colima #373, Colonia Roma Norte, Del. Cuauhtémoc Ciudad de México, Distrito Federal 6700",
+    "phone": "+52 (55) 52410100",
+    "website": "http://www.femexfut.org.mx",
+    "email": "femexfut@mpsnet.com.mx",
+    "founded": 1927,
+    "clubColors": "Green / White / Red",
+    "venue": "Levi's Stadium",
+    "squad": [
+        {
+            "id": 16,
+            "name": "Andrés Guardado",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 23,
+            "name": "Carlos Vela",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 130,
+            "name": "Miguel Layún",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3,
+            "name": "Jesús Corona",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1980-12-28T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3285,
+            "name": "Guillermo Ochoa",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3286,
+            "name": "Alfredo Talavera",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1981-12-27T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3287,
+            "name": "Héctor Moreno",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3290,
+            "name": "Hugo Ayala",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3291,
+            "name": "Carlos Salcedo",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3293,
+            "name": "Edson Álvarez",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3294,
+            "name": "Héctor Herrera",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3296,
+            "name": "Jesús Manuel Corona",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3298,
+            "name": "Jesús Gallardo",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3302,
+            "name": "Javier Hernández",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3303,
+            "name": "Marco Fabián",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3304,
+            "name": "Oribe Peralta",
+            "position": "Attacker",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3305,
+            "name": "Raúl Jiménez",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3306,
+            "name": "Hirving Lozano",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 39298,
+            "name": "Érick Gutiérrez",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 40004,
+            "name": "Javier Aquino",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43764,
+            "name": "Jonathan dos Santos",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43765,
+            "name": "Giovani dos Santos",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43766,
+            "name": "Juan Carlos Osorio",
+            "position": null,
+            "dateOfBirth": "1961-01-01T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:33Z"
+}

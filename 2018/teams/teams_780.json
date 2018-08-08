@@ -1,0 +1,236 @@
+{
+    "id": 780,
+    "area": {
+        "id": 2206,
+        "name": "Serbia"
+    },
+    "name": "Serbia",
+    "shortName": "Serbia",
+    "tla": "SER",
+    "address": "Terazije 35 / CP 263 Beograd 11000",
+    "phone": "+381 (11) 3234253",
+    "website": "http://www.fss.rs",
+    "email": "office@fss.rs",
+    "founded": 1919,
+    "clubColors": "Red / Blue / White",
+    "venue": "Merkur Arena",
+    "squad": [
+        {
+            "id": 1775,
+            "name": "Nikola Milenković",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1804,
+            "name": "Aleksandar Kolarov",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2066,
+            "name": "Sergej Milinković-Savić",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2300,
+            "name": "Adem Ljajić",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3428,
+            "name": "Vladimir Stojković",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3429,
+            "name": "Predrag Rajković",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3430,
+            "name": "Marko Dmitrović",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3431,
+            "name": "Duško Tošić",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3432,
+            "name": "Branislav Ivanović",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3434,
+            "name": "Antonio Rukavina",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3437,
+            "name": "Miloš Veljković",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3438,
+            "name": "Nemanja Matić",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3439,
+            "name": "Luka Milivojević",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3440,
+            "name": "Andrija Živković",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3442,
+            "name": "Marko Grujić",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3444,
+            "name": "Dušan Tadić",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3445,
+            "name": "Aleksandar Mitrović",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3446,
+            "name": "Filip Kostić",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3447,
+            "name": "Aleksandar Prijović",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6723,
+            "name": "Luka Jović",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8844,
+            "name": "Uroš Spajić",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10189,
+            "name": "Milan Rodić",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10190,
+            "name": "Nemanja Radonjić",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10191,
+            "name": "Mladen Krstajić",
+            "position": null,
+            "dateOfBirth": "1973-12-30T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Serbia",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:37Z"
+}

@@ -1,0 +1,236 @@
+{
+    "id": 840,
+    "area": {
+        "id": 2110,
+        "name": "Iran"
+    },
+    "name": "Iran",
+    "shortName": "Iran",
+    "tla": "IRN",
+    "address": "No. 2/2 Third St. Seoul Avenue Tehrān 19958-7359",
+    "phone": "+98 (21) 88213308",
+    "website": "http://www.ffiri.ir",
+    "email": "international@ffiri.ir",
+    "founded": 1920,
+    "clubColors": "White / Green / Red",
+    "venue": "Azadi Stadium",
+    "squad": [
+        {
+            "id": 3794,
+            "name": "Alireza Beiranvand",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3795,
+            "name": "Mohammad Rashid Mazaheri",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3796,
+            "name": "Amir Abedzadeh",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3799,
+            "name": "Mohammad Reza Khanzadeh",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3800,
+            "name": "Ehsan Hajsafi",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3801,
+            "name": "Pejman Montazeri",
+            "position": "Defender",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3803,
+            "name": "Morteza Pouraliganji",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3804,
+            "name": "Ramin Rezaeian",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3806,
+            "name": "Roozbeh Cheshmi",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3807,
+            "name": "Masoud Shojaei",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3808,
+            "name": "Omid Ebrahimi",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3809,
+            "name": "Vahid Amiri",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3810,
+            "name": "Mehdi Torabi",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3811,
+            "name": "Milad Mohammadi",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3813,
+            "name": "Saman Ghoddos",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3815,
+            "name": "Ashkan Dejagah",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3816,
+            "name": "Karim Ansarifard",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3817,
+            "name": "Sardar Azmoun",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3818,
+            "name": "Reza Ghoochannejhad",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3819,
+            "name": "Alireza Jahanbakhsh",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3820,
+            "name": "Mehdi Taremi",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3821,
+            "name": "Saeid Ezatolahi",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43783,
+            "name": "Majid Hosseini",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Iran",
+            "nationality": "Iran",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43784,
+            "name": "Carlos Queiroz",
+            "position": null,
+            "dateOfBirth": "1952-12-28T00:00:00Z",
+            "countryOfBirth": "Mozambique",
+            "nationality": "Portugal",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:48Z"
+}

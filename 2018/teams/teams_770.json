@@ -1,0 +1,236 @@
+{
+    "id": 770,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "name": "England",
+    "shortName": "England",
+    "tla": "ENG",
+    "address": "Wembley Stadium, PO Box 1966 London SW1P 9EQ",
+    "phone": "+44 (844) 9808200",
+    "website": "http://www.thefa.com",
+    "email": "info@thefa.com",
+    "founded": 1863,
+    "clubColors": "White / Red / Navy Blue",
+    "venue": null,
+    "squad": [
+        {
+            "id": 3308,
+            "name": "Jack Butland",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3309,
+            "name": "Jordan Pickford",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3310,
+            "name": "Nick Pope",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3311,
+            "name": "Kyle Walker",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3312,
+            "name": "Kieran Trippier",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3313,
+            "name": "John Stones",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3314,
+            "name": "Eric Dier",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3317,
+            "name": "Ashley Young",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3319,
+            "name": "Danny Rose",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3320,
+            "name": "Jordan Henderson",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3324,
+            "name": "Dele Alli",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3325,
+            "name": "Jesse Lingard",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3326,
+            "name": "Harry Maguire",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3328,
+            "name": "Danny Welbeck",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3329,
+            "name": "Raheem Sterling",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Jamaica",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3330,
+            "name": "Jamie Vardy",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3331,
+            "name": "Marcus Rashford",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7804,
+            "name": "Gary Cahill",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7867,
+            "name": "Trent Alexander-Arnold",
+            "position": "Defender",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7886,
+            "name": "Fabian Delph",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7897,
+            "name": "Phil Jones",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8004,
+            "name": "Harry Kane",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8159,
+            "name": "Ruben Loftus-Cheek",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10186,
+            "name": "Gareth Southgate",
+            "position": null,
+            "dateOfBirth": "1969-12-28T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:18Z"
+}

@@ -1,0 +1,245 @@
+{
+    "id": 765,
+    "area": {
+        "id": 2187,
+        "name": "Portugal"
+    },
+    "name": "Portugal",
+    "shortName": "Portugal",
+    "tla": "POR",
+    "address": "Rua Alexandre Herculano, 58 Lisboa 1250-012",
+    "phone": "+351 (213) 252700",
+    "website": "http://www.fpf.pt",
+    "email": "info@fpf.pt",
+    "founded": 1914,
+    "clubColors": "Red / Green",
+    "venue": null,
+    "squad": [
+        {
+            "id": 44,
+            "name": "Cristiano Ronaldo",
+            "position": "Attacker",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1760,
+            "name": "André Silva",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2090,
+            "name": "Mário Rui",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3238,
+            "name": "Beto",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1981-12-27T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3239,
+            "name": "Rui Patrício",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3240,
+            "name": "Anthony Lopes",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3242,
+            "name": "Bruno Alves",
+            "position": "Defender",
+            "dateOfBirth": "1980-12-28T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3244,
+            "name": "Cédric Soares",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3245,
+            "name": "José Fonte",
+            "position": "Defender",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3246,
+            "name": "Raphaël Guerreiro",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3247,
+            "name": "Ricardo Quaresma",
+            "position": "Midfielder",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3248,
+            "name": "Manuel Fernandes",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3249,
+            "name": "João Moutinho",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3250,
+            "name": "William Carvalho",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Angola",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3252,
+            "name": "Adrien Silva",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3253,
+            "name": "João Mário",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3254,
+            "name": "Bernardo Silva",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3256,
+            "name": "Gelson Martins",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Cape Verde Islands",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3257,
+            "name": "Bruno Fernandes",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3259,
+            "name": "Gonçalo Guedes",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10181,
+            "name": "Pepe",
+            "position": "Defender",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10182,
+            "name": "Ricardo Pereira",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10183,
+            "name": "Rúben Dias",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10184,
+            "name": "Fernando Santos",
+            "position": null,
+            "dateOfBirth": "1953-12-27T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "COACH"
+        },
+        {
+            "id": 10185,
+            "name": "Ilídio Vale",
+            "position": null,
+            "dateOfBirth": "1956-12-30T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "role": "ASSISTANT_COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:11Z"
+}

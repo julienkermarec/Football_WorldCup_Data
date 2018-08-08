@@ -1,0 +1,236 @@
+{
+    "id": 799,
+    "area": {
+        "id": 2058,
+        "name": "Croatia"
+    },
+    "name": "Croatia",
+    "shortName": "Croatia",
+    "tla": "HRV",
+    "address": "Ulica grada Vukovara, 269 A Zagreb 10000",
+    "phone": "+385 (1) 2361555",
+    "website": "http://www.hns-cff.hr",
+    "email": "info@hns-cff.hr",
+    "founded": 1912,
+    "clubColors": "Red / White / Blue",
+    "venue": null,
+    "squad": [
+        {
+            "id": 43,
+            "name": "Luka Modrić",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 65,
+            "name": "Mateo Kovačić",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 116,
+            "name": "Šime Vrsaljko",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 168,
+            "name": "Tin Jedvaj",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 318,
+            "name": "Andrej Kramarić",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1761,
+            "name": "Nikola Kalinić",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1779,
+            "name": "Milan Badelj",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2003,
+            "name": "Marcelo Brozović",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2004,
+            "name": "Ivan Perišić",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2045,
+            "name": "Mario Mandžukić",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2252,
+            "name": "Ivan Strinić",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3546,
+            "name": "Danijel Subašić",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3547,
+            "name": "Lovre Kalinić",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3548,
+            "name": "Dominik Livaković",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3549,
+            "name": "Vedran Ćorluka",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3550,
+            "name": "Domagoj Vida",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3551,
+            "name": "Josip Pivarić",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3554,
+            "name": "Ivan Rakitić",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3555,
+            "name": "Filip Bradarić",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3557,
+            "name": "Ante Rebić",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3558,
+            "name": "Marko Pjaca",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7859,
+            "name": "Dejan Lovren",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10206,
+            "name": "Duje Ćaleta-Car",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10209,
+            "name": "Zlatko Dalić",
+            "position": null,
+            "dateOfBirth": "1965-12-26T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Croatia",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:40Z"
+}

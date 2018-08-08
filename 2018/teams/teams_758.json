@@ -1,0 +1,254 @@
+{
+    "id": 758,
+    "area": {
+        "id": 2257,
+        "name": "Uruguay"
+    },
+    "name": "Uruguay",
+    "shortName": "Uruguay",
+    "tla": "URY",
+    "address": "Guayaybo 1531 Montevideo 11200",
+    "phone": "+59 (82) 4004814",
+    "website": "http://www.auf.org.uy",
+    "email": "auf@auf.org.uy",
+    "founded": 1900,
+    "clubColors": "Sky Blue / White / Black",
+    "venue": "Guangxi Sports Centre Stadium",
+    "squad": [
+        {
+            "id": 111,
+            "name": "Diego Godín",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 115,
+            "name": "José Maria Giménez",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1244,
+            "name": "Giorgian De Arrascaeta",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1461,
+            "name": "Martín Silva",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1973,
+            "name": "Diego Laxalt",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2009,
+            "name": "Matías Vecino",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2041,
+            "name": "Rodrigo Bentancur",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2059,
+            "name": "Martín Cáceres",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2260,
+            "name": "Lucas Torreira",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2264,
+            "name": "Gastón Ramírez",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3160,
+            "name": "Fernando Muslera",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3161,
+            "name": "Martín Campaña",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3162,
+            "name": "Sebastián Coates",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3163,
+            "name": "Maxi Pereira",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3164,
+            "name": "Gastón Silva",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3165,
+            "name": "Guillermo Varela",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3166,
+            "name": "Cristian Rodríguez",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3167,
+            "name": "Carlos Sánchez",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3168,
+            "name": "Nahitan Nández",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3169,
+            "name": "Luis Suárez",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3170,
+            "name": "Edinson Cavani",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3171,
+            "name": "Cristhian Stuani",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3172,
+            "name": "Maxi Gómez",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33611,
+            "name": "Celso Otero",
+            "position": null,
+            "dateOfBirth": "1957-12-29T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "ASSISTANT_COACH"
+        },
+        {
+            "id": 33613,
+            "name": "Óscar Tabárez",
+            "position": null,
+            "dateOfBirth": "1946-12-29T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "COACH"
+        },
+        {
+            "id": 39263,
+            "name": "Jonathan Urretaviscaya",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:29Z"
+}

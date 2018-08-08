@@ -1,0 +1,236 @@
+{
+    "id": 802,
+    "area": {
+        "id": 2246,
+        "name": "Tunisia"
+    },
+    "name": "Tunisia",
+    "shortName": "Tunisia",
+    "tla": "TUN",
+    "address": "Stade Annexe d'El Menzah Tunis 1003",
+    "phone": "+216 (71) 793760",
+    "website": "http://www.ftf.org.tn",
+    "email": "directeur@ftf.org.tn",
+    "founded": 1957,
+    "clubColors": "White / Red",
+    "venue": "Stade Olympique de Radès",
+    "squad": [
+        {
+            "id": 674,
+            "name": "Mouez Hassen",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3587,
+            "name": "Aymen Mathlouthi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3588,
+            "name": "Farouk Ben Mustapha",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3590,
+            "name": "Syam Ben Youssef",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3591,
+            "name": "Rami Bedoui",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3592,
+            "name": "Ali Maâloul",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3593,
+            "name": "Oussama Haddadi",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3594,
+            "name": "Hamdi Nagguez",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3595,
+            "name": "Dylan Bronn",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3597,
+            "name": "Yohan Benalouane",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3598,
+            "name": "Wahbi Khazri",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3599,
+            "name": "Ferjani Sassi",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3601,
+            "name": "Mohamed Amine Ben Amor",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3602,
+            "name": "Yassine Meriah",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3603,
+            "name": "Ahmed Khalil",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3604,
+            "name": "Anice Badri",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3606,
+            "name": "Bassem Srarfi",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3607,
+            "name": "Saîf-Eddine Khaoui",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3608,
+            "name": "Ellyes Skhiri",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3609,
+            "name": "Fakhreddine Ben Youssef",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3612,
+            "name": "Naïm Sliti",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10163,
+            "name": "Ghailene Chaalali",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10164,
+            "name": "Saber Khelifa",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10166,
+            "name": "Nabil Maâloul",
+            "position": null,
+            "dateOfBirth": "1961-12-31T00:00:00Z",
+            "countryOfBirth": "Tunisia",
+            "nationality": "Tunisia",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:42Z"
+}

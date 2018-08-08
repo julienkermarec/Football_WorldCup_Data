@@ -1,0 +1,236 @@
+{
+    "id": 772,
+    "area": {
+        "id": 2123,
+        "name": "South Korea"
+    },
+    "name": "South Korea",
+    "shortName": "South Korea",
+    "tla": "KOR",
+    "address": "1-131 Sinmunno, 2-ga Jongno-Gu Seoul 110-062",
+    "phone": "+82 (2) 7377538",
+    "website": "http://www.kfa.or.kr",
+    "email": "kfainfo@kfa.or.kr",
+    "founded": 1928,
+    "clubColors": "Red / White / Blue",
+    "venue": "Jeonju World Cup Stadium",
+    "squad": [
+        {
+            "id": 2172,
+            "name": "Lee Seungwoo",
+            "position": "Attacker",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3332,
+            "name": "Kim Seunggyu",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3333,
+            "name": "Kim Jinhyeon",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3334,
+            "name": "Cho Hyunwoo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3337,
+            "name": "Lee Yong",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3338,
+            "name": "Jang Hyunsoo",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3339,
+            "name": "Yun Youngsun",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3342,
+            "name": "Ki Sungyueng",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3343,
+            "name": "Son Heungmin",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3344,
+            "name": "Koo Jacheol",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3345,
+            "name": "Park Jooho",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3346,
+            "name": "Kim Minwoo",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3347,
+            "name": "Lee Jaesung",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3348,
+            "name": "Jung Wooyoung",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3352,
+            "name": "Kim Shinwook",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3354,
+            "name": "Hwang Heechan",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 21671,
+            "name": "Kim Younggwon",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43767,
+            "name": "Hong Chul",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43768,
+            "name": "Ko Yohan",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43769,
+            "name": "Jeong Seunghyeon",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43770,
+            "name": "Oh Bansuk",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43771,
+            "name": "Ju Sejong",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43772,
+            "name": "Moon Seonmin",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43773,
+            "name": "Shin Taeyong",
+            "position": null,
+            "dateOfBirth": "1969-12-28T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea Republic",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:34Z"
+}

@@ -1,0 +1,227 @@
+{
+    "id": 782,
+    "area": {
+        "id": 2065,
+        "name": "Denmark"
+    },
+    "name": "Denmark",
+    "shortName": "Denmark",
+    "tla": null,
+    "address": "House of Football, DBU Allé 1 Brøndby 2605",
+    "phone": "+45 (43) 262222",
+    "website": "http://www.dbu.dk",
+    "email": "dbu@dbu.dk",
+    "founded": 1889,
+    "clubColors": "Red / White",
+    "venue": null,
+    "squad": [
+        {
+            "id": 56,
+            "name": "Simon Kjær",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 75,
+            "name": "Michael Krohn-Dehli",
+            "position": "Midfielder",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1855,
+            "name": "Andreas Cornelius",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2134,
+            "name": "Jens Stryger Larsen",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3448,
+            "name": "Kasper Schmeichel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3449,
+            "name": "Jonas Lössl",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3450,
+            "name": "Frederik Rønnow",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3452,
+            "name": "Jonas Knudsen",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3454,
+            "name": "Mathias Jørgensen",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3455,
+            "name": "Andreas Christensen",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3457,
+            "name": "William Kvist",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3458,
+            "name": "Lasse Schöne",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3460,
+            "name": "Thomas Delaney",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3461,
+            "name": "Pione Sisto",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Uganda",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3462,
+            "name": "Henrik Dalsgaard",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3464,
+            "name": "Lukas Lerager",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3466,
+            "name": "Yussuf Poulsen",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3467,
+            "name": "Martin Braithwaite",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3468,
+            "name": "Viktor Fischer",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3469,
+            "name": "Nicolai Jørgensen",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6671,
+            "name": "Jannik Vestergaard",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7570,
+            "name": "Kasper Dolberg",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10196,
+            "name": "Åge Hareide",
+            "position": null,
+            "dateOfBirth": "1952-12-28T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:29Z"
+}

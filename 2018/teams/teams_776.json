@@ -1,0 +1,245 @@
+{
+    "id": 776,
+    "area": {
+        "id": 2169,
+        "name": "Nigeria"
+    },
+    "name": "Nigeria",
+    "shortName": "Nigeria",
+    "tla": "NGA",
+    "address": "Olusegun Obasanjo Way Abuja null",
+    "phone": "+234 (9) 5237326",
+    "website": "http://www.thenff.com",
+    "email": null,
+    "founded": 1945,
+    "clubColors": "Green / White",
+    "venue": "Rudolf-Tonn-Stadion",
+    "squad": [
+        {
+            "id": 2236,
+            "name": "Simeon Nwankwo",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2291,
+            "name": "Joel Obi",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3139,
+            "name": "Oghenekaro Etebo",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3375,
+            "name": "Daniel Akpeyi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3376,
+            "name": "Ikechukwu Ezenwa",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3377,
+            "name": "Francis Uzoho",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3378,
+            "name": "Kenneth Omeruo",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3379,
+            "name": "Elderson Echiejile",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3380,
+            "name": "Leon Balogun",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3381,
+            "name": "William Troost-Ekong",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3382,
+            "name": "Abdullahi Shehu",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3383,
+            "name": "Wilfred Ndidi",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3385,
+            "name": "Tyronne Ebuehi",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3387,
+            "name": "Brian Idowu",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3388,
+            "name": "John Obi Mikel",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3389,
+            "name": "Victor Moses",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3390,
+            "name": "Ogenyi Onazi",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3391,
+            "name": "John Ogu",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3392,
+            "name": "Alex Iwobi",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3393,
+            "name": "Chidozie Awaziem",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3396,
+            "name": "Ahmed Musa",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3397,
+            "name": "Odion Ighalo",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3400,
+            "name": "Kelechi Iheanacho",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10160,
+            "name": "Gernot Rohr",
+            "position": null,
+            "dateOfBirth": "1952-12-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "France",
+            "role": "COACH"
+        },
+        {
+            "id": 10161,
+            "name": "Salisu Yusuf",
+            "position": null,
+            "dateOfBirth": "1951-12-30T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:35Z"
+}

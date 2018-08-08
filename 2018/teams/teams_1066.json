@@ -1,0 +1,236 @@
+{
+    "id": 1066,
+    "area": {
+        "id": 2107,
+        "name": "Iceland"
+    },
+    "name": "Iceland",
+    "shortName": "Iceland",
+    "tla": "ISL",
+    "address": "Laugardal Reykjavík 104",
+    "phone": "+354 (5) 102900",
+    "website": "http://www.ksi.is",
+    "email": "ksi@ksi.is",
+    "founded": 1947,
+    "clubColors": "Blue / White",
+    "venue": null,
+    "squad": [
+        {
+            "id": 2124,
+            "name": "Emil Hallfreðsson",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3823,
+            "name": "Hannes Þór Halldórsson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3826,
+            "name": "Frederik Schram",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3827,
+            "name": "Rúnar Alex Rúnarsson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3828,
+            "name": "Hólmar Eyjólfsson",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3829,
+            "name": "Birkir Már Sævarsson",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3830,
+            "name": "Ragnar Sigurðsson",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3831,
+            "name": "Ari Freyr Skúlason",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3832,
+            "name": "Hörður Björgvin Magnússon",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3833,
+            "name": "Sverrir Ingi Ingason",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3836,
+            "name": "Samúel Friðjónsson",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3837,
+            "name": "Aron Einar Gunnarsson",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3838,
+            "name": "Birkir Bjarnason",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3839,
+            "name": "Jóhann Berg Guðmundsson",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3840,
+            "name": "Kári Árnason",
+            "position": "Midfielder",
+            "dateOfBirth": "1981-12-27T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3841,
+            "name": "Ólafur Ingi Skúlason",
+            "position": "Midfielder",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3843,
+            "name": "Arnór Ingvi Traustason",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3845,
+            "name": "Björn Sigurðarson",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3846,
+            "name": "Jón Daði Böðvarsson",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3848,
+            "name": "Rúrik Gíslason",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3851,
+            "name": "Albert Guðmundsson",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6660,
+            "name": "Alfreð Finnbogason",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7842,
+            "name": "Gylfi Þór Sigurðsson",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10213,
+            "name": "Heimir Hallgrímsson",
+            "position": null,
+            "dateOfBirth": "1967-01-01T00:00:00Z",
+            "countryOfBirth": "Iceland",
+            "nationality": "Iceland",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:51:21Z"
+}

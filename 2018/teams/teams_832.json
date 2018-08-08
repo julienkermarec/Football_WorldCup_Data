@@ -1,0 +1,236 @@
+{
+    "id": 832,
+    "area": {
+        "id": 2184,
+        "name": "Peru"
+    },
+    "name": "Peru",
+    "shortName": "Peru",
+    "tla": "PER",
+    "address": "Avenida Aviación 2085 Lima null",
+    "phone": "+51 (1) 2258236",
+    "website": "http://www.fpf.org.pe",
+    "email": "fepefutbol@fpf.org.pe",
+    "founded": 1922,
+    "clubColors": "White / Red",
+    "venue": "Estadio Nacional",
+    "squad": [
+        {
+            "id": 1346,
+            "name": "Christian Cueva",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1535,
+            "name": "Miguel Trauco",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1553,
+            "name": "Paolo Guerrero",
+            "position": "Attacker",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3770,
+            "name": "Carlos Cáceda",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3771,
+            "name": "José Carvallo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3773,
+            "name": "Yoshimar Yotún",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3774,
+            "name": "Christian Ramos",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3775,
+            "name": "Aldo Corzo",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3776,
+            "name": "Alberto Rodríguez",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3778,
+            "name": "Miguel Araujo",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3779,
+            "name": "Jefferson Farfán",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3780,
+            "name": "Luis Advíncula",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3781,
+            "name": "Paolo Hurtado",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3782,
+            "name": "Renato Tapia",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3784,
+            "name": "Pedro Aquino",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3785,
+            "name": "Nilson Loyola",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3787,
+            "name": "Anderson Santamaría",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3789,
+            "name": "André Carrillo",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3790,
+            "name": "Raúl Ruidíaz",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3791,
+            "name": "Édison Flores",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3792,
+            "name": "Andy Polo",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33697,
+            "name": "Pedro Gallese",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33701,
+            "name": "Wilder Cartagena",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33702,
+            "name": "Ricardo Gareca",
+            "position": null,
+            "dateOfBirth": "1957-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:47Z"
+}

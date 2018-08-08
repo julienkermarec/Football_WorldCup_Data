@@ -1,0 +1,227 @@
+{
+    "id": 808,
+    "area": {
+        "id": 2195,
+        "name": "Russia"
+    },
+    "name": "Russia",
+    "shortName": "Russia",
+    "tla": "RUS",
+    "address": "Ulitsa Narodnaya, 7 Moskva 115172",
+    "phone": "+7 (495) 9261300",
+    "website": "http://www.rfs.ru",
+    "email": "info@rfs.ru",
+    "founded": 1912,
+    "clubColors": "Red / White / Blue",
+    "venue": null,
+    "squad": [
+        {
+            "id": 3665,
+            "name": "Igor Akinfeev",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3666,
+            "name": "Vladimir Gaboulov",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3667,
+            "name": "Andrei Louniov",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3669,
+            "name": "Vladimir Granat",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3670,
+            "name": "Andrei Semionov",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3672,
+            "name": "Ilia Koutepov",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3673,
+            "name": "Fiodor Kudriachov",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3675,
+            "name": "Iouri Jirkov",
+            "position": "Midfielder",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3676,
+            "name": "Alan Dzagoev",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3679,
+            "name": "Aleksandr Samedov",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3680,
+            "name": "Igor Smolnikov",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3681,
+            "name": "Aleksey Miranchuk",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3682,
+            "name": "Roman Zobnin",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3683,
+            "name": "Aleksandr Golovin",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3684,
+            "name": "Aleksandr Erokhin",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3687,
+            "name": "Daler Kuzyaev",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3688,
+            "name": "Anton Miranchuk",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3690,
+            "name": "Denis Cheryshev",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3691,
+            "name": "Fedor Smolov",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8831,
+            "name": "Mário Fernandes",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8832,
+            "name": "Yury Gazinskiy",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8834,
+            "name": "Artem Dzyuba",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43801,
+            "name": "Stanislav Cherchesov",
+            "position": null,
+            "dateOfBirth": "1962-12-30T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:58Z"
+}

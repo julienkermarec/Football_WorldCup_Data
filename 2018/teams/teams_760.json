@@ -1,0 +1,236 @@
+{
+    "id": 760,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "name": "Spain",
+    "shortName": "Spain",
+    "tla": "ESP",
+    "address": "Ramón y Cajal, s/n Las Rozas 28230",
+    "phone": "+34 (91) 4959800",
+    "website": "http://www.rfef.es",
+    "email": "rfef@rfef.es",
+    "founded": 1909,
+    "clubColors": "Red / Blue / Yellow",
+    "venue": null,
+    "squad": [
+        {
+            "id": 11,
+            "name": "Álvaro Odriozola",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 45,
+            "name": "Lucas Vázquez",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 50,
+            "name": "Nacho Monreal",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 52,
+            "name": "Marco Asensio",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 66,
+            "name": "Isco",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 112,
+            "name": "Koke Ressureccion",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 113,
+            "name": "Diego Costa",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 118,
+            "name": "Saúl Niguez",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 356,
+            "name": "Thiago Alcântara",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2082,
+            "name": "Pepe Reina",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1981-12-27T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3188,
+            "name": "David De Gea",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3189,
+            "name": "Kepa Arrizabalaga",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3190,
+            "name": "Piqué",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3191,
+            "name": "Kepa Arrizabalaga",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3195,
+            "name": "César Azpilicueta",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3192,
+            "name": "Sergio Ramos",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3193,
+            "name": "Jordi Alba",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3194,
+            "name": "Dani Carvajal",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3196,
+            "name": "David Silva",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3197,
+            "name": "Iniesta",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3200,
+            "name": "Rodrigo Moreno",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3201,
+            "name": "Iago Aspas",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10179,
+            "name": "Sergio Busquets",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        },
+        {
+            "id": 49511,
+            "name": "José Ignacio Fernandez",
+            "position": "Defender",
+            "dateOfBirth": "1967-12-31T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:05Z"
+}

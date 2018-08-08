@@ -1,0 +1,236 @@
+{
+    "id": 792,
+    "area": {
+        "id": 2233,
+        "name": "Sweden"
+    },
+    "name": "Sweden",
+    "shortName": "Sweden",
+    "tla": "SWE",
+    "address": "Evenemangsgatan 31 / Box 1216 Solna 17123",
+    "phone": "+46 (8) 7350900",
+    "website": "http://www.svenskfotboll.se",
+    "email": "svff@svenskfotboll.se",
+    "founded": 1904,
+    "clubColors": "Yellow / Blue",
+    "venue": null,
+    "squad": [
+        {
+            "id": 1868,
+            "name": "Emil Krafth",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1871,
+            "name": "Filip Helander",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1984,
+            "name": "Oscar Hiljemark",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2222,
+            "name": "Marcus Rohdén",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3484,
+            "name": "Kristoffer Nordfeldt",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3485,
+            "name": "Karl-Johan Johnsson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3487,
+            "name": "Martin Olsson",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3488,
+            "name": "Andreas Granqvist",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3489,
+            "name": "Mikael Lustig",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3490,
+            "name": "Pontus Jansson",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3492,
+            "name": "Victor Nilsson-Lindelöf",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3493,
+            "name": "Sebastian Larsson",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3494,
+            "name": "Emil Forsberg",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3495,
+            "name": "Jimmy Durmaz",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3497,
+            "name": "Gustav Svensson",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3499,
+            "name": "Viktor Claesson",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3501,
+            "name": "John Guidetti",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3502,
+            "name": "Ola Toivonen",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3503,
+            "name": "Isaac Thelin",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3504,
+            "name": "Marcus Berg",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6527,
+            "name": "Albin Ekdal",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 9445,
+            "name": "Ludwig Augustinssor",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10198,
+            "name": "Janne Andersson",
+            "position": null,
+            "dateOfBirth": "1961-12-31T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "COACH"
+        },
+        {
+            "id": 15512,
+            "name": "Robin Olsen",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:47Z"
+}

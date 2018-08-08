@@ -1,0 +1,245 @@
+{
+    "id": 793,
+    "area": {
+        "id": 2055,
+        "name": "Costa Rica"
+    },
+    "name": "Costa Rica",
+    "shortName": "Costa Rica",
+    "tla": "CRI",
+    "address": "Radial Santa Ana Belén San José 670-1000",
+    "phone": "+506 2589 1450",
+    "website": "http://www.fedefutbol.com",
+    "email": "ejecutivo@fedefutbol.com",
+    "founded": 1921,
+    "clubColors": "Red / Blue / White",
+    "venue": "Estadio Nacional de Costa Rica",
+    "squad": [
+        {
+            "id": 51,
+            "name": "Keylor Navas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 87,
+            "name": "Celso Borges",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1875,
+            "name": "Giancarlo González",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3506,
+            "name": "Leonel Moreira",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3508,
+            "name": "Bryan Oviedo",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3509,
+            "name": "Johnny Acosta",
+            "position": "Defender",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3510,
+            "name": "Óscar Duarte",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Nicaragua",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3511,
+            "name": "Francisco Calvo",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3512,
+            "name": "Kenner Gutiérrez",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3513,
+            "name": "Cristian Gamboa",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3514,
+            "name": "Yeltsin Tejeda",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3515,
+            "name": "Kendall Waston",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3516,
+            "name": "David Guzmán",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3518,
+            "name": "Ian Smith",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3520,
+            "name": "Bryan Ruiz",
+            "position": "Attacker",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3521,
+            "name": "Marcos Ureña",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3523,
+            "name": "Daniel Colindres",
+            "position": "Attacker",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3524,
+            "name": "Rodney Wallace",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33043,
+            "name": "Joel Campbell",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43775,
+            "name": "Patrick Pemberton",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1981-12-27T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43776,
+            "name": "Ronald Matarrita",
+            "position": "Defender",
+            "dateOfBirth": "1994-01-03T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43777,
+            "name": "Rándall Azofeifa",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43778,
+            "name": "Christian Bolaños",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43779,
+            "name": "Johan Venegas",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43780,
+            "name": "Óscar Ramírez",
+            "position": null,
+            "dateOfBirth": "1963-12-29T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:38Z"
+}

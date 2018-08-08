@@ -1,0 +1,245 @@
+{
+    "id": 804,
+    "area": {
+        "id": 2205,
+        "name": "Senegal"
+    },
+    "name": "Senegal",
+    "shortName": "Senegal",
+    "tla": "SEN",
+    "address": "VDN-Ouest-Foire en face du CICES, Boite postale 13021 Dakar null",
+    "phone": "+221 (33) 8692828",
+    "website": "http://www.fsfoot.sn",
+    "email": "fsf@senegalfoot.sn",
+    "founded": 1960,
+    "clubColors": "White / Green",
+    "venue": "Stade Océane",
+    "squad": [
+        {
+            "id": 299,
+            "name": "Salif Sané",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 472,
+            "name": "Saliou Ciss",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-02T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2086,
+            "name": "Kalidou Koulibaly",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2302,
+            "name": "M'Baye Niang",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2345,
+            "name": "Alfred Gomis",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3614,
+            "name": "Abdoulaye Diallo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3615,
+            "name": "Khadim Ndiaye",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3618,
+            "name": "Cheikhou Kouyaté",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3621,
+            "name": "Lamine Gassama",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3623,
+            "name": "Moussa Wagué",
+            "position": "Defender",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3624,
+            "name": "Youssouf Sabaly",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3625,
+            "name": "Alfred N'Diaye",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3626,
+            "name": "Sadio Mané",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3627,
+            "name": "Idrissa Gana Guèye",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3628,
+            "name": "Cheikh N'Doye",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3629,
+            "name": "Badou Ndiaye",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3632,
+            "name": "Mame Birame Diouf",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3633,
+            "name": "Diafra Sakho",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3635,
+            "name": "Moussa Konaté",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3636,
+            "name": "Moussa Sow",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3637,
+            "name": "Keïta Baldé",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3638,
+            "name": "Ismaïla Sarr",
+            "position": "Attacker",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8321,
+            "name": "Adama Mbengue",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8840,
+            "name": "Kara Mbodji",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10168,
+            "name": "Aliou Cissé",
+            "position": null,
+            "dateOfBirth": "1975-12-28T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:43Z"
+}

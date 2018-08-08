@@ -1,0 +1,245 @@
+{
+    "id": 762,
+    "area": {
+        "id": 2011,
+        "name": "Argentina"
+    },
+    "name": "Argentina",
+    "shortName": "Argentina",
+    "tla": "ARG",
+    "address": "Viamonte 1366/76 Buenos Aires 1053",
+    "phone": "+54 (11) 43719400",
+    "website": "http://www.afa.org.ar",
+    "email": "gerencia@afa.org.ar",
+    "founded": 1893,
+    "clubColors": "Sky Blue / White / Black",
+    "venue": "Estadio Alberto José Armando",
+    "squad": [
+        {
+            "id": 58,
+            "name": "Gabriel Mercado",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 59,
+            "name": "Éver Banega",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1755,
+            "name": "Lucas Biglia",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1800,
+            "name": "Federico Fazio",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2046,
+            "name": "Paulo Dybala",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2047,
+            "name": "Gonzalo Higuaín",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2284,
+            "name": "Cristian Ansaldi",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3203,
+            "name": "Willy Caballero",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1980-12-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3204,
+            "name": "Nahuel Guzmán",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3205,
+            "name": "Nicolás Otamendi",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3206,
+            "name": "Marcos Rojo",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3208,
+            "name": "Nicolás Tagliafico",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3209,
+            "name": "Javier Mascherano",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3210,
+            "name": "Ángel di María",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3212,
+            "name": "Marcos Acuña",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3216,
+            "name": "Giovani Lo Celso",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3217,
+            "name": "Maximiliano Meza",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3218,
+            "name": "Lionel Messi",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3219,
+            "name": "Cristian Pavón",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7891,
+            "name": "Sergio Agüero",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 11658,
+            "name": "Enzo Pérez",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 11668,
+            "name": "Franco Armani",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 16745,
+            "name": "Eduardo Salvio",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33636,
+            "name": "Jorge Sampaoli",
+            "position": null,
+            "dateOfBirth": "1959-12-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "COACH"
+        },
+        {
+            "id": 33637,
+            "name": "Jorge Pautasso",
+            "position": null,
+            "dateOfBirth": "1961-12-31T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "ASSISTANT_COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:30Z"
+}

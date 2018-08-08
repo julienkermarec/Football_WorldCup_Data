@@ -1,0 +1,236 @@
+{
+    "id": 788,
+    "area": {
+        "id": 2234,
+        "name": "Switzerland"
+    },
+    "name": "Switzerland",
+    "shortName": "Switzerland",
+    "tla": "CHE",
+    "address": "Worbstrasse 48 Bern 3000",
+    "phone": "+41 (31) 9508111",
+    "website": "http://www.football.ch",
+    "email": "sfv.asf@football.ch",
+    "founded": 1895,
+    "clubColors": "Red / White",
+    "venue": "swissporarena",
+    "squad": [
+        {
+            "id": 88,
+            "name": "Fabian Schär",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 141,
+            "name": "Roman Bürki",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 143,
+            "name": "Manuel Akanji",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 333,
+            "name": "Steven Zuber",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1745,
+            "name": "Ricardo Rodriguez",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1841,
+            "name": "Remo Freuler",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1885,
+            "name": "Blerim Džemaili",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "FYR Macedonia",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2026,
+            "name": "Stephan Lichtsteiner",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2130,
+            "name": "Valon Behrami",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Kosovo",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3470,
+            "name": "Yann Sommer",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3472,
+            "name": "Johan Djourou",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3473,
+            "name": "Michael Lang",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3474,
+            "name": "François Moubandje",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3475,
+            "name": "Nico Elvedi",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3476,
+            "name": "Gelson Fernandes",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Cape Verde Islands",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3477,
+            "name": "Granit Xhaka",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3480,
+            "name": "Josip Drmić",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3481,
+            "name": "Mario Gavranović",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3482,
+            "name": "Haris Seferović",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3483,
+            "name": "Breel Embolo",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6687,
+            "name": "Denis Zakaria",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7955,
+            "name": "Xherdan Shaqiri",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Kosovo",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 9534,
+            "name": "Yvon Mvogo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10197,
+            "name": "Vladimir Petković",
+            "position": null,
+            "dateOfBirth": "1962-12-30T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Bosnia and Herzegovina",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:58Z"
+}

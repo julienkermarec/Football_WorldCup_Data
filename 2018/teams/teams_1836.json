@@ -1,0 +1,236 @@
+{
+    "id": 1836,
+    "area": {
+        "id": 2181,
+        "name": "Panama"
+    },
+    "name": "Panama",
+    "shortName": "Panama",
+    "tla": "PAN",
+    "address": "Ciudad Deportiva Irving Saladino - Zona 8 Ciudad de Panamá null",
+    "phone": "+507 2333896",
+    "website": "http://www.fepafut.com",
+    "email": "info@fepafut.com",
+    "founded": 1937,
+    "clubColors": "Red / White / Navy Blue",
+    "venue": "Estadio Rommel Fernández Gutiérrez",
+    "squad": [
+        {
+            "id": 3853,
+            "name": "José Calderón",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3854,
+            "name": "Álex Rodríguez",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3865,
+            "name": "Valentín Pimentel",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8903,
+            "name": "Ricardo Ávila",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8919,
+            "name": "José Luis Rodríguez",
+            "position": "Attacker",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 22355,
+            "name": "Gabriel Gómez",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 23630,
+            "name": "Gabriel Torres",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 23875,
+            "name": "Armando Cooper",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 36430,
+            "name": "Jaime Penedo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1980-12-28T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 39139,
+            "name": "Édgar Bárcenas",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43785,
+            "name": "Harold Cummings",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43786,
+            "name": "Fidel Escobar",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43787,
+            "name": "Erick Davis",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43788,
+            "name": "Luis Ovalle",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43789,
+            "name": "Michael Amir Murillo",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43790,
+            "name": "Román Torres",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43791,
+            "name": "Adolfo Machado",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43792,
+            "name": "Felipe Baloy",
+            "position": "Defender",
+            "dateOfBirth": "1980-12-28T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43793,
+            "name": "Aníbal Godoy",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43794,
+            "name": "Blas Pérez",
+            "position": "Attacker",
+            "dateOfBirth": "1980-12-28T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43795,
+            "name": "Ismael Díaz",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43796,
+            "name": "Luis Tejada",
+            "position": "Attacker",
+            "dateOfBirth": "1981-12-27T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43797,
+            "name": "Abdiel Arroyo",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43798,
+            "name": "Hernán Gómez",
+            "position": null,
+            "dateOfBirth": "1956-01-01T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:49Z"
+}

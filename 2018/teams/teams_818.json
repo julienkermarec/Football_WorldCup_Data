@@ -1,0 +1,236 @@
+{
+    "id": 818,
+    "area": {
+        "id": 2049,
+        "name": "Colombia"
+    },
+    "name": "Colombia",
+    "shortName": "Colombia",
+    "tla": "COL",
+    "address": "Avenida 32 no. 16-22 Bogotá null",
+    "phone": "+57 (1) 2889838",
+    "website": "http://www.fcf.com.co",
+    "email": "info@colfutbol.org",
+    "founded": 1924,
+    "clubColors": "Yellow / Red / Blue",
+    "venue": "Craven Cottage",
+    "squad": [
+        {
+            "id": 57,
+            "name": "Luis Fernando Muriel",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 365,
+            "name": "James Rodríguez",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1195,
+            "name": "Miguel Borja",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1737,
+            "name": "Cristián Zapata",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2037,
+            "name": "Juan Cuadrado",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3721,
+            "name": "Camilo Vargas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3722,
+            "name": "David Ospina",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3723,
+            "name": "Santiago Arias",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3724,
+            "name": "Johan Mojica",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3727,
+            "name": "Óscar Murillo",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3728,
+            "name": "Yerry Mina",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3729,
+            "name": "Carlos Sánchez",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3730,
+            "name": "Juan Fernando Quintero",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3731,
+            "name": "Abel Aguilar",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3732,
+            "name": "Wílmar Barrios",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3733,
+            "name": "Davinson Sánchez",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3734,
+            "name": "Mateus Uribe",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3735,
+            "name": "José Izquierdo",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3737,
+            "name": "Jefferson Lerma",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3739,
+            "name": "Radamel Falcao",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3740,
+            "name": "Carlos Bacca",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 22036,
+            "name": "José Cuadrado",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33662,
+            "name": "Farid Díaz",
+            "position": "Defender",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33668,
+            "name": "José Pekerman",
+            "position": null,
+            "dateOfBirth": "1948-12-26T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:45Z"
+}

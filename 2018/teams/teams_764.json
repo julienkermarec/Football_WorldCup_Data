@@ -1,0 +1,227 @@
+{
+    "id": 764,
+    "area": {
+        "id": 2032,
+        "name": "Brazil"
+    },
+    "name": "Brazil",
+    "shortName": "Brazil",
+    "tla": "BRA",
+    "address": "Rua Victor Civita 66 Bloco 1, Edifico 5 Rio de Janeiro, RJ 22775-044",
+    "phone": "+55 (21) 35721900",
+    "website": "http://www.cbf.com.br/",
+    "email": "cbf@cbf.com.br",
+    "founded": 1914,
+    "clubColors": "Yellow / Green / Blue",
+    "venue": "Anfield",
+    "squad": [
+        {
+            "id": 48,
+            "name": "Marcelo Vieira da Silva Júnior",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 117,
+            "name": "Filipe Luis",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1135,
+            "name": "Pedro Tonon Geromel",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1431,
+            "name": "Cássio Ramos",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1434,
+            "name": "Fágner Conserva Lemos",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1795,
+            "name": "Alisson Becker",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 1997,
+            "name": "Joao Miranda",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2039,
+            "name": "Douglas Costa",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3222,
+            "name": "Ederson Moraes",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3224,
+            "name": "Thiago Silva",
+            "position": "Defender",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3227,
+            "name": "Fernandinho",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3228,
+            "name": "Philippe Coutinho",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3229,
+            "name": "Paulinho",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3230,
+            "name": "Willian",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3231,
+            "name": "Casemiro",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3232,
+            "name": "Fred",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3233,
+            "name": "Roberto Firmino",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3235,
+            "name": "Renato Augusto",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3236,
+            "name": "Gabriel Jesus",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3237,
+            "name": "Taison",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7881,
+            "name": "Danilo",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8491,
+            "name": "Neymar",
+            "position": "Attacker",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33639,
+            "name": "Tite",
+            "position": null,
+            "dateOfBirth": "1961-01-01T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:31Z"
+}

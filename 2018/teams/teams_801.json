@@ -1,0 +1,218 @@
+{
+    "id": 801,
+    "area": {
+        "id": 2203,
+        "name": "Saudi Arabia"
+    },
+    "name": "Saudi Arabia",
+    "shortName": "Saudi Arabia",
+    "tla": "KSA",
+    "address": "Al Mather Quarter, Prince Faisal bin Fahad Street, P.O. Box 5844 Riyadh 11432",
+    "phone": "+966 (11) 4822240",
+    "website": "http://www.thesaff.com.sa",
+    "email": "info@football-saudi.com",
+    "founded": 1956,
+    "clubColors": "White / Green",
+    "venue": "Kybunpark",
+    "squad": [
+        {
+            "id": 3560,
+            "name": "Abdullah Al Muaiouf",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3561,
+            "name": "Mohammed Al Owais",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3562,
+            "name": "Yasser Al Mosailem",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3564,
+            "name": "Motaz Hawsawi",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3565,
+            "name": "Omar Hawsawi",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3567,
+            "name": "Yasir Al Shahrani",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3570,
+            "name": "Mohammed Al-Breik",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3571,
+            "name": "Ali Al Bulayhi",
+            "position": "Defender",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3572,
+            "name": "Abdulmalek Al Khaibri",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3574,
+            "name": "Salem Al Dossari",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3575,
+            "name": "Taiseer Al Jassim",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3576,
+            "name": "Salman Al Faraj",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3578,
+            "name": "Houssain Al Mogahwi",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3579,
+            "name": "Abdullah Otayf",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3580,
+            "name": "Mohamed Kanno",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3582,
+            "name": "Hattan Babhir",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3583,
+            "name": "Abdullah Al Khaibari",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3584,
+            "name": "Mohammed Al Sahlawi",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3585,
+            "name": "Muhannad Asiri",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 32956,
+            "name": "Fahad Al Muwallad",
+            "position": "Attacker",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43781,
+            "name": "Yahia Al Shehri",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Saudi Arabia",
+            "nationality": "Saudi Arabia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43782,
+            "name": "Pizzi",
+            "position": null,
+            "dateOfBirth": "1967-12-31T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Spain",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:41Z"
+}

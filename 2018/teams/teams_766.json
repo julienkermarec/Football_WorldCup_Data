@@ -1,0 +1,236 @@
+{
+    "id": 766,
+    "area": {
+        "id": 2116,
+        "name": "Japan"
+    },
+    "name": "Japan",
+    "shortName": "Japan",
+    "tla": "JPN",
+    "address": "JFA House Football Avenue, Bunkyo-ku Tokyo 113-8311",
+    "phone": "+81 (3) 38302004",
+    "website": "http://www.jfa.or.jp",
+    "email": "mary@jfa.or.jp",
+    "founded": 1921,
+    "clubColors": "Blue / White",
+    "venue": "Stade Maurice Dufrasne",
+    "squad": [
+        {
+            "id": 209,
+            "name": "Yūya Ōsako",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3124,
+            "name": "Gaku Shibasaki",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3260,
+            "name": "Eiji Kawashima",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1982-12-26T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3261,
+            "name": "Masaaki Higashiguchi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3262,
+            "name": "Kōsuke Nakamura",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3263,
+            "name": "Gōtoku Sakai",
+            "position": "Defender",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "United States",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3264,
+            "name": "Yūto Nagatomo",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3266,
+            "name": "Naomichi Ueda",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3267,
+            "name": "Gen Shōji",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3268,
+            "name": "Tomoaki Makino",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3269,
+            "name": "Wataru Endo",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3271,
+            "name": "Makoto Hasebe",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3272,
+            "name": "Hotaru Yamaguchi",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3274,
+            "name": "Takashi Usami",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3276,
+            "name": "Ryota Ohshima",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3279,
+            "name": "Keisuke Honda",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3280,
+            "name": "Genki Haraguchi",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6487,
+            "name": "Shinji Kagawa",
+            "position": "Attacker",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6627,
+            "name": "Yoshinori Mutō",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8078,
+            "name": "Shinji Okazaki",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8082,
+            "name": "Maya Yoshida",
+            "position": "Defender",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8344,
+            "name": "Hiroki Sakai",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 33357,
+            "name": "Takashi Inui",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "PLAYER"
+        },
+        {
+            "id": 43763,
+            "name": "Akira Nishino",
+            "position": null,
+            "dateOfBirth": "1954-12-26T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "role": "COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:32Z"
+}

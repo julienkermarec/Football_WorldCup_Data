@@ -1,0 +1,245 @@
+{
+    "id": 773,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "name": "France",
+    "shortName": "France",
+    "tla": "FRA",
+    "address": "87 Boulevard de Grenelle Paris 75738",
+    "phone": "+33 (1) 44317300",
+    "website": "http://www.fff.fr",
+    "email": "webmaster@fff.fr",
+    "founded": 1919,
+    "clubColors": "Blue / White / Red",
+    "venue": null,
+    "squad": [
+        {
+            "id": 114,
+            "name": "Antoine Griezmann",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 121,
+            "name": "Steven N'Zonzi",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 366,
+            "name": "Corentin Tolisso",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2042,
+            "name": "Blaise Matuidi",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3355,
+            "name": "Hugo Lloris",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3356,
+            "name": "Steve Mandanda",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3357,
+            "name": "Alphonse Aréola",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3360,
+            "name": "Raphaël Varane",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3361,
+            "name": "Samuel Umtiti",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3362,
+            "name": "Djibril Sidibé",
+            "position": "Defender",
+            "dateOfBirth": "1991-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3363,
+            "name": "Presnel Kimpembe",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3364,
+            "name": "Benjamin Pavard",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3365,
+            "name": "Lucas Hernández",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3366,
+            "name": "Paul Pogba",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3367,
+            "name": "N'Golo Kanté",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3369,
+            "name": "Thomas Lemar",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-01T00:00:00Z",
+            "countryOfBirth": "Guadeloupe",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3370,
+            "name": "Florian Thauvin",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3371,
+            "name": "Olivier Giroud",
+            "position": "Attacker",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3373,
+            "name": "Ousmane Dembélé",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3374,
+            "name": "Kylian Mbappé",
+            "position": "Attacker",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7882,
+            "name": "Benjamin Mendy",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8348,
+            "name": "Adil Rami",
+            "position": "Defender",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8464,
+            "name": "Nabil Fekir",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10187,
+            "name": "Didier Deschamps",
+            "position": null,
+            "dateOfBirth": "1967-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "COACH"
+        },
+        {
+            "id": 43799,
+            "name": "Guy Stéphan",
+            "position": null,
+            "dateOfBirth": "1956-01-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "ASSISTANT_COACH"
+        }
+    ],
+    "lastUpdated": "2018-06-02T13:50:24Z"
+}

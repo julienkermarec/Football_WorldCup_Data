@@ -1,0 +1,245 @@
+{
+    "id": 815,
+    "area": {
+        "id": 2156,
+        "name": "Morocco"
+    },
+    "name": "Morocco",
+    "shortName": "Morocco",
+    "tla": "MAR",
+    "address": "51 bis, Avenue Ibn Sina Rabat 10000",
+    "phone": "+212 (537) 672706",
+    "website": "http://www.frmf.ma",
+    "email": "contact@frmf.ma",
+    "founded": 1955,
+    "clubColors": "Red / Green",
+    "venue": "Stade de Genève",
+    "squad": [
+        {
+            "id": 53,
+            "name": "Achraf Hakimi",
+            "position": "Defender",
+            "dateOfBirth": "1997-12-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 2029,
+            "name": "Mehdi Benatia",
+            "position": "Defender",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3693,
+            "name": "Munir Mohamedi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3694,
+            "name": "Yassine Bounou",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-12-30T00:00:00Z",
+            "countryOfBirth": "Canada",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3695,
+            "name": "Ahmed Reda Tagnaouti",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3696,
+            "name": "Marouan da Costa",
+            "position": "Defender",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3697,
+            "name": "Hamza Mendyl",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3701,
+            "name": "Karim El Ahmadi",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-12-30T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3702,
+            "name": "Nabil Dirar",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-12-29T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3704,
+            "name": "Mbark Boussoufa",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-01-01T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3705,
+            "name": "Sofyan Amrabat",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3707,
+            "name": "Hakim Ziyech",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3708,
+            "name": "Younès Belhanda",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3709,
+            "name": "Fayçal Fajr",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3710,
+            "name": "Romain Saïss",
+            "position": "Defender",
+            "dateOfBirth": "1989-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3711,
+            "name": "Youssef Aït Bennasser",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3714,
+            "name": "Amine Harit",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3715,
+            "name": "Nordin Amrabat",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3717,
+            "name": "Khalid Boutaïb",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3718,
+            "name": "Aziz Bouhaddouz",
+            "position": "Attacker",
+            "dateOfBirth": "1986-12-28T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3720,
+            "name": "Ayoub El Kaabi",
+            "position": "Attacker",
+            "dateOfBirth": "1992-12-27T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 9246,
+            "name": "Mehdi Carcela",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-01T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10169,
+            "name": "Jamal Sellami",
+            "position": null,
+            "dateOfBirth": "1969-12-28T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "role": "LOCAL_COACH"
+        },
+        {
+            "id": 10170,
+            "name": "Hervé Renard",
+            "position": null,
+            "dateOfBirth": "1967-12-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "COACH"
+        },
+        {
+            "id": 32836,
+            "name": "Youssef En-Nesyri",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-29T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2018-06-07T12:17:44Z"
+}
