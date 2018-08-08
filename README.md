@@ -1,64 +1,22 @@
-# ionic-3-infinite-swiped-tabs
+# Football_WorldCup_Data
 
-![Screenshot](https://raw.githubusercontent.com/julienkermarec/ionic-infinite-swiped-tabs/master/screenshots/header.png)
+https://blog.julienkermarec.com/challenge-juillet-cm-football-coupe-monde-de-foot-2018/
 
-## Tutoriel
-
-https://blog.julienkermarec.com/ionic-3-infinite-swiped-tabs/
+Used by CM Football Android App : <https://play.google.com/store/apps/details?id=com.kerweb.cmfootball>
 
 ## Features
-Infinite Tabs / Segments<br />
-Auto-centering active segment with animation<br />
-iOS / Android UX compatible<br />
+Matchs<br />
+Groups<br />
+Teams<br />
+Players pictures<br />
+Country pictures<br />
+Statistics<br />
 
-## Usage
-```html
-<!-- TOOLBAR + SEGMENTS -->
-<ion-toolbar mode="md" color="light">
-  <ion-segment  #segments  mode="md" [(ngModel)]="page" color="light">
-      <ion-segment-button value="0"  (click)="selectedTab(0)">
-          Segment 1
-      </ion-segment-button>
-      <ion-segment-button value="1"  (click)="selectedTab(1)">
-          Segment 2
-      </ion-segment-button>
-      <ion-segment-button value="2"  (click)="selectedTab(2)">
-          Segment 3
-      </ion-segment-button>
-      <ion-segment-button value="3"  (click)="selectedTab(3)">
-          Segment 4
-      </ion-segment-button>
-      <ion-segment-button value="4"  (click)="selectedTab(4)">
-          Segment 5
-      </ion-segment-button>
-  </ion-segment>
-</ion-toolbar>
-<!-- SLIDES -->
-<ion-slides #slider (ionSlideDidChange)="slideChanged()">
-    <ion-slide>
-        <h1>Tab 1</h1>
-    </ion-slide>
-    <ion-slide>
-        <h1>Tab 2</h1>
-    </ion-slide>
-    <ion-slide>
-        <h1>Tab 3</h1>
-    </ion-slide>
-    <ion-slide>
-        <h1>Tab 4</h1>
-    </ion-slide>
-    <ion-slide>
-        <h1>Tab 5</h1>
-    </ion-slide>
-</ion-slides>
 
-```
-
-## TODO
-- [X] Ion-segment
-- [X] Ion-slides
-- [X] Center active segment
-- [X] Animate active segment
+## Data from
+* <https://www.football-data.org/> - Une API freemium
+* <https://github.com/openfootball/> - Données JSON
+* <https://www.google.fr/search?q=coupe+du+monde+2018+football>Google (Card football) - Scraping des statistiques des rencontres
 
 ## Info/Support
 
